@@ -1,4 +1,4 @@
-# Project-Legacy-Game
+# Project Legacy Game
 
 Project Legacy is a game made in PICO-8, a fantasy console. The code is all LUA, and it was written by myself. The sprites were all done done by myself in PICO-8's own sprite creator/editor with design ideas and help from a friend of mine, Nick. Nick also wrote the official narrative, characters, world, and setting the game takes place in. 
 
