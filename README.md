@@ -14,4 +14,4 @@ In regards to the LUA code itself, unfortunately, I have lost the code as I fail
 
 ## To Play The Game
 
-Please download the **projectlegacy.exe** along with the **data.pod** and **SDL2.dll** files, or, just download the release. Place the files in the same directory, and then launch projectlegacy.exe. Have fun!
+Please download the **projectlegacy.exe** along with the **data.pod** and **SDL2.dll** files, or, just download the release. Place the files in the same directory, and then launch projectlegacy.exe. The controls are the arrow keys on your keyboard. Have fun!
